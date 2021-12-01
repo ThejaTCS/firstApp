@@ -2,4 +2,4 @@ First line in file2.txt
 Seocnd line in file2.txt
 Third line in file2.txt
 Fourth line in file2.txt
-
+This is the new line adding masterslave 1 branch
