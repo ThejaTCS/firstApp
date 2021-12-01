@@ -1,2 +1,4 @@
 This is my nth line 
-this is the desired type of text editing that i am lokking for
+this is the desired type of text editing that i am lokking for
+
+This is the new feature added in second branch
